@@ -57,6 +57,10 @@ background: #F60000;
 ![OUTPUT](./out1.png)
 ![OUTPUT](./out2.png)
 ![OUTPUT](./out3.png)
+![out1](https://github.com/VijayShankar10/event-registration/assets/121999019/ff67b491-627a-443c-af51-6fa1a4f0fcc4)
+![out2](https://github.com/VijayShankar10/event-registration/assets/121999019/284e682b-0b75-4f41-bd3d-423f1a7cde25)
+![out3](https://github.com/VijayShankar10/event-registration/assets/121999019/86f379c1-fded-4198-8484-d4f6ba5f3dc0)
+
 
 ## Result:
 The program to design, develop and deploy a web application for event-registration is executed successfully.
